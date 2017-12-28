@@ -17,7 +17,7 @@ either start a REPL
 Or create an uberjar
     
 	 $ lein uberjar
-    $ java -jar snakesandladders-0.1.0-SNAPSHOT-standalone.jar [args]
+	 $ java -jar snakesandladders-0.1.0-SNAPSHOT-standalone.jar [args]
 
 ## Options
 
