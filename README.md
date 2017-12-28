@@ -25,7 +25,8 @@ players x
 
 ## Examples
 
-(-main ":players" "3")
+  (-main ":players" "3")
+  java -jar snakesandladders-0.1.0-SNAPSHOT-standalone.jar :players 3
 
 ### Bugs
 
